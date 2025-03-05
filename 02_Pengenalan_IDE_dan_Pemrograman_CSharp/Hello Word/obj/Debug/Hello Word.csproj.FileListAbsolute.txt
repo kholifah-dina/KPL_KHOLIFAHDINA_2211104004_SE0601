@@ -1,0 +1,10 @@
+D:\Kuliah\SEMESTER 6\KPL_KHOLIFAHDINA_2211104004_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\Hello Word\bin\Debug\Hello Word.exe.config
+D:\Kuliah\SEMESTER 6\KPL_KHOLIFAHDINA_2211104004_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\Hello Word\bin\Debug\Hello Word.exe
+D:\Kuliah\SEMESTER 6\KPL_KHOLIFAHDINA_2211104004_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\Hello Word\bin\Debug\Hello Word.pdb
+D:\Kuliah\SEMESTER 6\KPL_KHOLIFAHDINA_2211104004_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\Hello Word\obj\Debug\Hello Word.csproj.AssemblyReference.cache
+D:\Kuliah\SEMESTER 6\KPL_KHOLIFAHDINA_2211104004_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\Hello Word\obj\Debug\Hello_Word.Properties.Resources.resources
+D:\Kuliah\SEMESTER 6\KPL_KHOLIFAHDINA_2211104004_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\Hello Word\obj\Debug\Hello Word.csproj.GenerateResource.cache
+D:\Kuliah\SEMESTER 6\KPL_KHOLIFAHDINA_2211104004_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\Hello Word\obj\Debug\Hello Word.csproj.CoreCompileInputs.cache
+D:\Kuliah\SEMESTER 6\KPL_KHOLIFAHDINA_2211104004_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\Hello Word\obj\Debug\Hello Word.exe
+D:\Kuliah\SEMESTER 6\KPL_KHOLIFAHDINA_2211104004_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\Hello Word\obj\Debug\Hello Word.pdb
+D:\Kuliah\SEMESTER 6\KPL_KHOLIFAHDINA_2211104004_SE0601\02_Pengenalan_IDE_dan_Pemrograman_CSharp\Hello Word\obj\Debug\Hello_Word.Form1.resources
