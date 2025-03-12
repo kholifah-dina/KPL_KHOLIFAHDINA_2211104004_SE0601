@@ -24,7 +24,11 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Kuliah\\SEMESTER 6\\KPL_KHOLIFAHDINA_2211104004_SE0601\\05_Generics\\modul5_2211104004\\Program.cs",
               "RelativeToolTip": "Program.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAFEAAAAgAAAAAAAAAA==",
+>>>>>>> implementasi-generic-class
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T16:32:26.997Z",
               "EditorCaption": ""
