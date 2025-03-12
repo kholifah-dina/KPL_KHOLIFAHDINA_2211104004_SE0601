@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Program",
+      "appliesTo": "tpmodul5_2211104004/Program.cs",
+      "type": "launch"
+    }
+  ]
+}
