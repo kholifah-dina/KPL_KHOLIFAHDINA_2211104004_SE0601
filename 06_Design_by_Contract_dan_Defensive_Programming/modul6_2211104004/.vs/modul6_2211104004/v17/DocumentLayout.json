@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Kuliah\\SEMESTER 6\\KPL_KHOLIFAHDINA_2211104004_SE0601\\06_Design_by_Contract_dan_Defensive_Programming\\modul6_2211104004\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E300DA67-4FD5-4DCA-B3B9-3001DA0630ED}|modul6_2211104004.csproj|d:\\kuliah\\semester 6\\kpl_kholifahdina_2211104004_se0601\\06_design_by_contract_dan_defensive_programming\\modul6_2211104004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E300DA67-4FD5-4DCA-B3B9-3001DA0630ED}|modul6_2211104004.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Kuliah\\SEMESTER 6\\KPL_KHOLIFAHDINA_2211104004_SE0601\\06_Design_by_Contract_dan_Defensive_Programming\\modul6_2211104004\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Kuliah\\SEMESTER 6\\KPL_KHOLIFAHDINA_2211104004_SE0601\\06_Design_by_Contract_dan_Defensive_Programming\\modul6_2211104004\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAAHUAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-19T04:39:42.866Z",
               "EditorCaption": ""
