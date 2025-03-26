@@ -1,0 +1,32 @@
+{
+  "members": [
+    {
+      "firstName": "Atika",
+      "lastName": "Aji",
+      "gender": "female",
+      "age": 20,
+      "nim": "2211104003"
+    },
+    {
+      "firstName": "Afad",
+      "lastName": "Fath",
+      "gender": "male",
+      "age": 20,
+      "nim": "2211104031"
+    },
+    {
+      "firstName": "Noor",
+      "lastName": "Alam",
+      "gender": "male",
+      "age": 20,
+      "nim": "2211104030"
+    },
+    {
+      "firstName": "Rahmat",
+      "lastName": "Taufik",
+      "gender": "male",
+      "age": 20,
+      "nim": "2211104028"
+    }
+  ]
+}
