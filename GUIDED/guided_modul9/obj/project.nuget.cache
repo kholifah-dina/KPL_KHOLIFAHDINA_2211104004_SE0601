@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "XoZhc/nmfPQ=",
+  "success": true,
+  "projectFilePath": "D:\\Kuliah\\SEMESTER 6\\KPL_KHOLIFAHDINA_2211104004_SE0601\\08_Runtime_Configuration_dan_Internationalization\\GUIDED\\guided_modul9\\guided_modul9.csproj",
+  "expectedPackageFiles": [
+    "D:\\NuGetPackages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "D:\\NuGetPackages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "D:\\NuGetPackages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "D:\\NuGetPackages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "D:\\NuGetPackages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "D:\\NuGetPackages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: There is not enough space on the disk.\r\n"
+    }
+  ]
+}
