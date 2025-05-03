@@ -1,0 +1,12 @@
+D:\Kuliah\KPL_KHOLIFAHDINA_2211104004_SE0601\10_Library_Construction\TP\tpmodul10_2211104004\AljabarLibrary\bin\Debug\net8.0\AljabarLibraries.deps.json
+D:\Kuliah\KPL_KHOLIFAHDINA_2211104004_SE0601\10_Library_Construction\TP\tpmodul10_2211104004\AljabarLibrary\bin\Debug\net8.0\AljabarLibraries.dll
+D:\Kuliah\KPL_KHOLIFAHDINA_2211104004_SE0601\10_Library_Construction\TP\tpmodul10_2211104004\AljabarLibrary\bin\Debug\net8.0\AljabarLibraries.pdb
+D:\Kuliah\KPL_KHOLIFAHDINA_2211104004_SE0601\10_Library_Construction\TP\tpmodul10_2211104004\AljabarLibrary\obj\Debug\net8.0\AljabarLibraries.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\KPL_KHOLIFAHDINA_2211104004_SE0601\10_Library_Construction\TP\tpmodul10_2211104004\AljabarLibrary\obj\Debug\net8.0\AljabarLibraries.AssemblyInfoInputs.cache
+D:\Kuliah\KPL_KHOLIFAHDINA_2211104004_SE0601\10_Library_Construction\TP\tpmodul10_2211104004\AljabarLibrary\obj\Debug\net8.0\AljabarLibraries.AssemblyInfo.cs
+D:\Kuliah\KPL_KHOLIFAHDINA_2211104004_SE0601\10_Library_Construction\TP\tpmodul10_2211104004\AljabarLibrary\obj\Debug\net8.0\AljabarLibraries.csproj.CoreCompileInputs.cache
+D:\Kuliah\KPL_KHOLIFAHDINA_2211104004_SE0601\10_Library_Construction\TP\tpmodul10_2211104004\AljabarLibrary\obj\Debug\net8.0\AljabarLibraries.sourcelink.json
+D:\Kuliah\KPL_KHOLIFAHDINA_2211104004_SE0601\10_Library_Construction\TP\tpmodul10_2211104004\AljabarLibrary\obj\Debug\net8.0\AljabarLibraries.dll
+D:\Kuliah\KPL_KHOLIFAHDINA_2211104004_SE0601\10_Library_Construction\TP\tpmodul10_2211104004\AljabarLibrary\obj\Debug\net8.0\refint\AljabarLibraries.dll
+D:\Kuliah\KPL_KHOLIFAHDINA_2211104004_SE0601\10_Library_Construction\TP\tpmodul10_2211104004\AljabarLibrary\obj\Debug\net8.0\AljabarLibraries.pdb
+D:\Kuliah\KPL_KHOLIFAHDINA_2211104004_SE0601\10_Library_Construction\TP\tpmodul10_2211104004\AljabarLibrary\obj\Debug\net8.0\ref\AljabarLibraries.dll

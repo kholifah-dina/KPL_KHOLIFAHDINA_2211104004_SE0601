@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kuliah\\KPL_KHOLIFAHDINA_2211104004_SE0601\\10_Library_Construction\\TP\\tpmodul10_2211104004\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4A06DA-A28E-45D5-B1DE-97E3546B1A6E}|LibraryConsoleApp\\LibraryConsoleApp.csproj|d:\\kuliah\\kpl_kholifahdina_2211104004_se0601\\10_library_construction\\tp\\tpmodul10_2211104004\\libraryconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B4A06DA-A28E-45D5-B1DE-97E3546B1A6E}|LibraryConsoleApp\\LibraryConsoleApp.csproj|solutionrelative:libraryconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDCE6F8-9A5C-47A6-9985-A48FE5FBF00A}|AljabarLibrary\\AljabarLibrary.csproj|d:\\kuliah\\kpl_kholifahdina_2211104004_se0601\\10_library_construction\\tp\\tpmodul10_2211104004\\aljabarlibrary\\aljabar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CDCE6F8-9A5C-47A6-9985-A48FE5FBF00A}|AljabarLibrary\\AljabarLibrary.csproj|solutionrelative:aljabarlibrary\\aljabar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CDCE6F8-9A5C-47A6-9985-A48FE5FBF00A}|AljabarLibrary\\AljabarLibraries.csproj|d:\\kuliah\\kpl_kholifahdina_2211104004_se0601\\10_library_construction\\tp\\tpmodul10_2211104004\\aljabarlibrary\\aljabarlibraries.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9CDCE6F8-9A5C-47A6-9985-A48FE5FBF00A}|AljabarLibrary\\AljabarLibraries.csproj|solutionrelative:aljabarlibrary\\aljabarlibraries.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4A06DA-A28E-45D5-B1DE-97E3546B1A6E}|LibraryConsoleApp\\LibraryConsoleApp.csproj|d:\\kuliah\\kpl_kholifahdina_2211104004_se0601\\10_library_construction\\tp\\tpmodul10_2211104004\\libraryconsoleapp\\libraryconsoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B4A06DA-A28E-45D5-B1DE-97E3546B1A6E}|LibraryConsoleApp\\LibraryConsoleApp.csproj|solutionrelative:libraryconsoleapp\\libraryconsoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aljabar.cs",
+              "DocumentMoniker": "D:\\Kuliah\\KPL_KHOLIFAHDINA_2211104004_SE0601\\10_Library_Construction\\TP\\tpmodul10_2211104004\\AljabarLibrary\\Aljabar.cs",
+              "RelativeDocumentMoniker": "AljabarLibrary\\Aljabar.cs",
+              "ToolTip": "D:\\Kuliah\\KPL_KHOLIFAHDINA_2211104004_SE0601\\10_Library_Construction\\TP\\tpmodul10_2211104004\\AljabarLibrary\\Aljabar.cs",
+              "RelativeToolTip": "AljabarLibrary\\Aljabar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:40:06.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Kuliah\\KPL_KHOLIFAHDINA_2211104004_SE0601\\10_Library_Construction\\TP\\tpmodul10_2211104004\\LibraryConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryConsoleApp\\Program.cs",
+              "ToolTip": "D:\\Kuliah\\KPL_KHOLIFAHDINA_2211104004_SE0601\\10_Library_Construction\\TP\\tpmodul10_2211104004\\LibraryConsoleApp\\Program.cs",
+              "RelativeToolTip": "LibraryConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:40:32.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AljabarLibraries.csproj",
+              "DocumentMoniker": "D:\\Kuliah\\KPL_KHOLIFAHDINA_2211104004_SE0601\\10_Library_Construction\\TP\\tpmodul10_2211104004\\AljabarLibrary\\AljabarLibraries.csproj",
+              "RelativeDocumentMoniker": "AljabarLibrary\\AljabarLibraries.csproj",
+              "ToolTip": "D:\\Kuliah\\KPL_KHOLIFAHDINA_2211104004_SE0601\\10_Library_Construction\\TP\\tpmodul10_2211104004\\AljabarLibrary\\AljabarLibraries.csproj",
+              "RelativeToolTip": "AljabarLibrary\\AljabarLibraries.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-03T17:41:38.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibraryConsoleApp",
+              "DocumentMoniker": "D:\\Kuliah\\KPL_KHOLIFAHDINA_2211104004_SE0601\\10_Library_Construction\\TP\\tpmodul10_2211104004\\LibraryConsoleApp\\LibraryConsoleApp.csproj",
+              "RelativeDocumentMoniker": "LibraryConsoleApp\\LibraryConsoleApp.csproj",
+              "ToolTip": "D:\\Kuliah\\KPL_KHOLIFAHDINA_2211104004_SE0601\\10_Library_Construction\\TP\\tpmodul10_2211104004\\LibraryConsoleApp\\LibraryConsoleApp.csproj",
+              "RelativeToolTip": "LibraryConsoleApp\\LibraryConsoleApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-03T17:40:52.757Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
