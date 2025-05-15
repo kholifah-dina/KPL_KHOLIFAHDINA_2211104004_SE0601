@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kuliah\\KPL_KHOLIFAHDINA_2211104004_SE0601\\12_Performance_Analysis_Unit_Testing_\u0026_Debugging\\GUIDED\\PerhitunganCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AEBDC09-5E98-40CB-9FD1-5B655FA5BDBF}|..\\HelloWorldTest\\HelloWorldTest.csproj|d:\\kuliah\\kpl_kholifahdina_2211104004_se0601\\12_performance_analysis_unit_testing_\u0026_debugging\\guided\\helloworldtest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC2AE662-3C2C-450C-A744-87804CD6546B}|PerhitunganCore.csproj|d:\\kuliah\\kpl_kholifahdina_2211104004_se0601\\12_performance_analysis_unit_testing_\u0026_debugging\\guided\\perhitungancore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC2AE662-3C2C-450C-A744-87804CD6546B}|PerhitunganCore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AEBDC09-5E98-40CB-9FD1-5B655FA5BDBF}|..\\HelloWorldTest\\HelloWorldTest.csproj|d:\\kuliah\\kpl_kholifahdina_2211104004_se0601\\12_performance_analysis_unit_testing_\u0026_debugging\\guided\\helloworldtest\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "D:\\Kuliah\\KPL_KHOLIFAHDINA_2211104004_SE0601\\12_Performance_Analysis_Unit_Testing_\u0026_Debugging\\GUIDED\\HelloWorldTest\\Test1.cs",
+              "RelativeDocumentMoniker": "..\\HelloWorldTest\\Test1.cs",
+              "ToolTip": "D:\\Kuliah\\KPL_KHOLIFAHDINA_2211104004_SE0601\\12_Performance_Analysis_Unit_Testing_\u0026_Debugging\\GUIDED\\HelloWorldTest\\Test1.cs",
+              "RelativeToolTip": "..\\HelloWorldTest\\Test1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:42:01.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "D:\\Kuliah\\KPL_KHOLIFAHDINA_2211104004_SE0601\\12_Performance_Analysis_Unit_Testing_\u0026_Debugging\\GUIDED\\HelloWorldTest\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "..\\HelloWorldTest\\MSTestSettings.cs",
+              "ToolTip": "D:\\Kuliah\\KPL_KHOLIFAHDINA_2211104004_SE0601\\12_Performance_Analysis_Unit_Testing_\u0026_Debugging\\GUIDED\\HelloWorldTest\\MSTestSettings.cs",
+              "RelativeToolTip": "..\\HelloWorldTest\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:41:08.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Kuliah\\KPL_KHOLIFAHDINA_2211104004_SE0601\\12_Performance_Analysis_Unit_Testing_\u0026_Debugging\\GUIDED\\PerhitunganCore\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Kuliah\\KPL_KHOLIFAHDINA_2211104004_SE0601\\12_Performance_Analysis_Unit_Testing_\u0026_Debugging\\GUIDED\\PerhitunganCore\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T07:39:14.462Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
