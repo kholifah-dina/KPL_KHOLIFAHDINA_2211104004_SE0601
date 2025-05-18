@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Kuliah\\SEMESTER 6\\KPL_KHOLIFAHDINA_2211104004_SE0601\\02_Pengenalan_IDE_dan_Pemrograman_CSharp\\modul2_2211104004\\",
+  "WorkspaceRootPath": "D:\\Kuliah\\KPL_KHOLIFAHDINA_2211104004_SE0601\\02_Pengenalan_IDE_dan_Pemrograman_CSharp\\modul2_2211104004\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D62FF12-47F9-4838-860F-0586C578BA3C}|modul2_2211104004.csproj|d:\\kuliah\\semester 6\\kpl_kholifahdina_2211104004_se0601\\02_pengenalan_ide_dan_pemrograman_csharp\\modul2_2211104004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0D62FF12-47F9-4838-860F-0586C578BA3C}|modul2_2211104004.csproj|d:\\kuliah\\kpl_kholifahdina_2211104004_se0601\\02_pengenalan_ide_dan_pemrograman_csharp\\modul2_2211104004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D62FF12-47F9-4838-860F-0586C578BA3C}|modul2_2211104004.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D62FF12-47F9-4838-860F-0586C578BA3C}|modul2_2211104004.csproj|d:\\kuliah\\kpl_kholifahdina_2211104004_se0601\\02_pengenalan_ide_dan_pemrograman_csharp\\modul2_2211104004\\modul2_2211104004.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0D62FF12-47F9-4838-860F-0586C578BA3C}|modul2_2211104004.csproj|solutionrelative:modul2_2211104004.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Kuliah\\SEMESTER 6\\KPL_KHOLIFAHDINA_2211104004_SE0601\\02_Pengenalan_IDE_dan_Pemrograman_CSharp\\modul2_2211104004\\Program.cs",
+              "DocumentMoniker": "D:\\Kuliah\\KPL_KHOLIFAHDINA_2211104004_SE0601\\02_Pengenalan_IDE_dan_Pemrograman_CSharp\\modul2_2211104004\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Kuliah\\SEMESTER 6\\KPL_KHOLIFAHDINA_2211104004_SE0601\\02_Pengenalan_IDE_dan_Pemrograman_CSharp\\modul2_2211104004\\Program.cs",
+              "ToolTip": "D:\\Kuliah\\KPL_KHOLIFAHDINA_2211104004_SE0601\\02_Pengenalan_IDE_dan_Pemrograman_CSharp\\modul2_2211104004\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAQwEwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAiwFAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T16:06:17.771Z",
+              "WhenOpened": "2025-05-18T14:51:40.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "modul2_2211104004",
+              "DocumentMoniker": "D:\\Kuliah\\KPL_KHOLIFAHDINA_2211104004_SE0601\\02_Pengenalan_IDE_dan_Pemrograman_CSharp\\modul2_2211104004\\modul2_2211104004.csproj",
+              "RelativeDocumentMoniker": "modul2_2211104004.csproj",
+              "ToolTip": "D:\\Kuliah\\KPL_KHOLIFAHDINA_2211104004_SE0601\\02_Pengenalan_IDE_dan_Pemrograman_CSharp\\modul2_2211104004\\modul2_2211104004.csproj",
+              "RelativeToolTip": "modul2_2211104004.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-18T14:51:37.187Z",
               "EditorCaption": ""
             }
           ]
