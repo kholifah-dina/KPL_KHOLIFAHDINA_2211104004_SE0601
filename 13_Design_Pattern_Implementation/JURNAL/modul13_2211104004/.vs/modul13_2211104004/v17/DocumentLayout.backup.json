@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kuliah\\KPL_KHOLIFAHDINA_2211104004_SE0601\\13_Design_Pattern_Implementation\\JURNAL\\modul13_2211104004\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B91FEC0E-8342-4403-84F9-F4DCCF8B3383}|modul13_2211104004.csproj|d:\\kuliah\\kpl_kholifahdina_2211104004_se0601\\13_design_pattern_implementation\\jurnal\\modul13_2211104004\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B91FEC0E-8342-4403-84F9-F4DCCF8B3383}|modul13_2211104004.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Kuliah\\KPL_KHOLIFAHDINA_2211104004_SE0601\\13_Design_Pattern_Implementation\\JURNAL\\modul13_2211104004\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Kuliah\\KPL_KHOLIFAHDINA_2211104004_SE0601\\13_Design_Pattern_Implementation\\JURNAL\\modul13_2211104004\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T14:21:17.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

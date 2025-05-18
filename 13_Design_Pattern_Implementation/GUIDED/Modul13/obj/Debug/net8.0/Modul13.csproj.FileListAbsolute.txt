@@ -1,0 +1,15 @@
+D:\Kuliah\KPL_KHOLIFAHDINA_2211104004_SE0601\13_Design_Pattern_Implementation\GUIDED\Modul13\bin\Debug\net8.0\Modul13.exe
+D:\Kuliah\KPL_KHOLIFAHDINA_2211104004_SE0601\13_Design_Pattern_Implementation\GUIDED\Modul13\bin\Debug\net8.0\Modul13.deps.json
+D:\Kuliah\KPL_KHOLIFAHDINA_2211104004_SE0601\13_Design_Pattern_Implementation\GUIDED\Modul13\bin\Debug\net8.0\Modul13.runtimeconfig.json
+D:\Kuliah\KPL_KHOLIFAHDINA_2211104004_SE0601\13_Design_Pattern_Implementation\GUIDED\Modul13\bin\Debug\net8.0\Modul13.dll
+D:\Kuliah\KPL_KHOLIFAHDINA_2211104004_SE0601\13_Design_Pattern_Implementation\GUIDED\Modul13\bin\Debug\net8.0\Modul13.pdb
+D:\Kuliah\KPL_KHOLIFAHDINA_2211104004_SE0601\13_Design_Pattern_Implementation\GUIDED\Modul13\obj\Debug\net8.0\Modul13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\KPL_KHOLIFAHDINA_2211104004_SE0601\13_Design_Pattern_Implementation\GUIDED\Modul13\obj\Debug\net8.0\Modul13.AssemblyInfoInputs.cache
+D:\Kuliah\KPL_KHOLIFAHDINA_2211104004_SE0601\13_Design_Pattern_Implementation\GUIDED\Modul13\obj\Debug\net8.0\Modul13.AssemblyInfo.cs
+D:\Kuliah\KPL_KHOLIFAHDINA_2211104004_SE0601\13_Design_Pattern_Implementation\GUIDED\Modul13\obj\Debug\net8.0\Modul13.csproj.CoreCompileInputs.cache
+D:\Kuliah\KPL_KHOLIFAHDINA_2211104004_SE0601\13_Design_Pattern_Implementation\GUIDED\Modul13\obj\Debug\net8.0\Modul13.sourcelink.json
+D:\Kuliah\KPL_KHOLIFAHDINA_2211104004_SE0601\13_Design_Pattern_Implementation\GUIDED\Modul13\obj\Debug\net8.0\Modul13.dll
+D:\Kuliah\KPL_KHOLIFAHDINA_2211104004_SE0601\13_Design_Pattern_Implementation\GUIDED\Modul13\obj\Debug\net8.0\refint\Modul13.dll
+D:\Kuliah\KPL_KHOLIFAHDINA_2211104004_SE0601\13_Design_Pattern_Implementation\GUIDED\Modul13\obj\Debug\net8.0\Modul13.pdb
+D:\Kuliah\KPL_KHOLIFAHDINA_2211104004_SE0601\13_Design_Pattern_Implementation\GUIDED\Modul13\obj\Debug\net8.0\Modul13.genruntimeconfig.cache
+D:\Kuliah\KPL_KHOLIFAHDINA_2211104004_SE0601\13_Design_Pattern_Implementation\GUIDED\Modul13\obj\Debug\net8.0\ref\Modul13.dll
