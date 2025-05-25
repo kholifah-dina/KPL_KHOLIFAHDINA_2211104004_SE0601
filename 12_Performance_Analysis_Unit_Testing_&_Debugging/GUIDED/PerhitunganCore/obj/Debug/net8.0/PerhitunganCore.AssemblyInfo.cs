@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PerhitunganCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0dddeb38e67769788727b986889a7229b09f99e6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56fb39e7acfe60ac77aa51824069db8ca2f80347")]
 [assembly: System.Reflection.AssemblyProductAttribute("PerhitunganCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PerhitunganCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
